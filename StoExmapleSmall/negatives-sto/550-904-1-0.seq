@@ -1,0 +1,148 @@
+t
+V 0 U
+V 1 U
+e 0 1 next
+V 2 A
+e 1 2 next
+V 3 G
+e 2 3 next
+V 4 C
+e 3 4 next
+V 5 A
+e 4 5 next
+V 6 C
+e 5 6 next
+V 7 U
+e 6 7 next
+V 8 -
+e 7 8 next
+V 9 C
+e 8 9 next
+V 10 n
+e 9 10 next
+V 11 n
+e 10 11 next
+V 12 n
+e 11 12 next
+V 13 -
+e 12 13 next
+V 14 R
+e 13 14 next
+V 15 n
+e 14 15 next
+V 16 n
+e 15 16 next
+V 17 -
+e 16 17 next
+V 18 -
+e 17 18 next
+V 19 -
+e 18 19 next
+V 20 -
+e 19 20 next
+V 21 n
+e 20 21 next
+V 22 n
+e 21 22 next
+V 23 -
+e 22 23 next
+V 24 -
+e 23 24 next
+V 25 G
+e 24 25 next
+V 26 -
+e 25 26 next
+V 27 -
+e 26 27 next
+V 28 A
+e 27 28 next
+V 29 G
+e 28 29 next
+V 30 -
+e 29 30 next
+V 31 -
+e 30 31 next
+V 32 U
+e 31 32 next
+V 33 G
+e 32 33 next
+V 34 C
+e 33 34 next
+V 35 U
+e 34 35 next
+V 36 A
+e 35 36 next
+V 37 A
+e 36 37 next
+V 38 n
+e 37 38 next
+V 39 n
+e 38 39 next
+V 40 -
+e 39 40 next
+V 41 -
+e 40 41 next
+V 42 -
+e 41 42 next
+V 43 -
+e 42 43 next
+V 44 -
+e 43 44 next
+V 45 -
+e 44 45 next
+V 46 n
+e 45 46 next
+V 47 n
+e 46 47 next
+V 48 n
+e 47 48 next
+V 49 n
+e 48 49 next
+V 50 n
+e 49 50 next
+V 51 n
+e 50 51 next
+V 52 n
+e 51 52 next
+V 53 n
+e 52 53 next
+V 54 -
+e 53 54 next
+V 55 -
+e 54 55 next
+V 56 -
+e 55 56 next
+V 57 -
+e 56 57 next
+V 58 -
+e 57 58 next
+V 59 -
+e 58 59 next
+V 60 n
+e 59 60 next
+V 61 -
+e 60 61 next
+V 62 n
+e 61 62 next
+V 63 n
+e 62 63 next
+V 64 n
+e 63 64 next
+V 65 n
+e 64 65 next
+V 66 n
+e 65 66 next
+V 67 n
+e 66 67 next
+V 68 n
+e 67 68 next
+e 10 22 bp
+e 9 25 bp
+e 8 28 bp
+e 7 29 bp
+e 6 32 bp
+e 5 33 bp
+e 4 34 bp
+e 3 35 bp
+e 2 36 bp
+e 1 37 bp
