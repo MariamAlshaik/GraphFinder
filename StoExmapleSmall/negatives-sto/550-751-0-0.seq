@@ -1,0 +1,94 @@
+t
+V 0 n
+V 1 -
+e 0 1 next
+V 2 U
+e 1 2 next
+V 3 G
+e 2 3 next
+V 4 -
+e 3 4 next
+V 5 -
+e 4 5 next
+V 6 G
+e 5 6 next
+V 7 G
+e 6 7 next
+V 8 -
+e 7 8 next
+V 9 G
+e 8 9 next
+V 10 n
+e 9 10 next
+V 11 -
+e 10 11 next
+V 12 -
+e 11 12 next
+V 13 A
+e 12 13 next
+V 14 U
+e 13 14 next
+V 15 G
+e 14 15 next
+V 16 U
+e 15 16 next
+V 17 U
+e 16 17 next
+V 18 U
+e 17 18 next
+V 19 U
+e 18 19 next
+V 20 U
+e 19 20 next
+V 21 A
+e 20 21 next
+V 22 U
+e 21 22 next
+V 23 U
+e 22 23 next
+V 24 G
+e 23 24 next
+V 25 R
+e 24 25 next
+V 26 C
+e 25 26 next
+V 27 G
+e 26 27 next
+V 28 n
+e 27 28 next
+V 29 n
+e 28 29 next
+V 30 n
+e 29 30 next
+V 31 U
+e 30 31 next
+V 32 U
+e 31 32 next
+V 33 U
+e 32 33 next
+V 34 C
+e 33 34 next
+V 35 C
+e 34 35 next
+V 36 C
+e 35 36 next
+V 37 Y
+e 36 37 next
+V 38 G
+e 37 38 next
+V 39 -
+e 38 39 next
+V 40 G
+e 39 40 next
+e 17 24 bp
+e 16 25 bp
+e 15 26 bp
+e 14 27 bp
+e 13 32 bp
+e 12 33 bp
+e 11 34 bp
+e 10 35 bp
+e 9 36 bp
+e 8 37 bp
+e 7 38 bp
+e 6 40 bp
